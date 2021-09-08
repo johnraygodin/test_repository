@@ -1,2 +1,2 @@
-# test_repository
+# 1st_repository
 This is the repository's description.
